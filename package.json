@@ -40,6 +40,8 @@
     "serverless-offline": "^3.25.10",
     "serverless-webpack": "^5.2.0",
     "source-map-loader": "^0.2.4",
+    "ts-jest": "^23.10.5",
+    "ts-lint": "^4.5.1",
     "typescript": "^3.2.4",
     "webpack": "^4.17.1",
     "webpack-node-externals": "^1.7.2"
