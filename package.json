@@ -12,7 +12,7 @@
     "precommit": "lint-staged",
     "serve": "serverless offline start",
     "tail:hello": "serverless logs --function hello --tail",
-    "test": "jest",
+    "test": "jest --coverage",
     "test:watch": "jest --watch",
     "test:updateSnapshot": "jest --updateSnapshot",
     "build": "serverless webpack",
